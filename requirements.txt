@@ -2,5 +2,4 @@ Flask
 SQLAlchemy
 Flask-SQLAlchemy
 pytest
-
 flake8
